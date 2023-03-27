@@ -6,7 +6,7 @@ This is a Cordova/Phonegap plugin to interact with the BlueBird ruggedized devic
 =============
 
 This plugin is compatible with plugman.  To install, run the following from your project command line: 
-```$ cordova plugin add https://github.com/BlueFletch/cordova-bluebird-api.git```
+```$ cordova plugin add https://github.com/henrique-gerhardt/cordova-bluebird-api.git --nofetch```
 
 
 ==============
